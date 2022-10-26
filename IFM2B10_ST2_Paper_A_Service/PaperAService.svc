@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="IFM2B10_ST2_Paper_A_Service.PaperAService" CodeBehind="PaperAService.svc.cs" %>

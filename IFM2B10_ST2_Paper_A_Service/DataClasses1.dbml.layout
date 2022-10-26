@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="d5348698-c646-4f8c-8601-6428c2b8d6fd" absoluteBounds="3.5, 1.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClasses1DataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="07163469-bef6-4c95-8f10-a1fee1718efa" absoluteBounds="3.515, 2.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c3ab8135-79ab-4587-8e58-3c704aff8b60" absoluteBounds="0.5, 1.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClasses1DataContext/itemMenu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0cb7603d-6f13-495f-9173-d6a898d8cbdd" absoluteBounds="0.515, 1.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9b0054aa-fce4-4d37-9f27-1a41d3a7b36f" absoluteBounds="6.5, 1.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClasses1DataContext/Reservation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5197053a-22c9-40ec-b59f-89f4a87f3f80" absoluteBounds="6.515, 2.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
